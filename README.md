@@ -3,10 +3,7 @@
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=propgsp&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-[![](https://visitcount.itsvg.in/api?id=propgsp&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github-contributor-stats.vercel.app/api?username=propgsp&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-![](https://nirzak-streak-stats.vercel.app/?user=propgsp&theme=ocean_dark&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=propgsp&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
