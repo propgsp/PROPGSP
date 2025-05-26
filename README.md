@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://minimalistic-wallpaper.demolab.com/#alena-aenami-blue-hour.jpg" alt="Background Image" width="800">
+  <img src="https://raw.githubusercontent.com/propgsp/PROPGSP/main/alena-aenami-blue-hour.jpg" alt="Blue Hour Wallpaper" width="400">
 </p>
 
 <p align="center">
