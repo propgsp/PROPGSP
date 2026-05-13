@@ -6,5 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00A6FF&center=true&vCenter=true&width=600&lines=IM+PROPGSP;Init+The+Future;Commit+The+Present;Takedown+The+Past" alt="Typing SVG">
 </p>
 
-![GitHub Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=propgsp)
+[![GitHub Contribution Graph](https://contribution-graph-ohi6.onrender.com/api/graph?username=YourGitHubUsername)](https://github.com/YourGitHubUsername)
+
 
