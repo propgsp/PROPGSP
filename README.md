@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/propgsp/PROPGSP/main/alena-aenami-blue-hour.jpg" alt="Blue Hour Wallpaper" width="400">
 </p>
@@ -7,4 +8,10 @@
 </p>
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=propgsp&theme=tokyonight"/>
+![](https://streak-stats.demolab.com/?user=propgsp&theme=shadow_blue&hide_border=false)<br/>
+
+
+
+
+
+![](https://github-readme-stats.shion.dev/api?username=propgsp&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
