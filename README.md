@@ -9,3 +9,12 @@
 
 
 ![](https://streak-stats.demolab.com/?user=propgsp&theme=shadow_blue&hide_border=false)<br/>
+
+
+
+There are other GitHub accounts using my exact name (**SRINIVASA PRASANNA**). To avoid any confusion, please note that **only** the two accounts listed below are mine:
+
+*   **Primary Account:** [@propgsp](https://github.com/propgsp)
+*   **Academic Account:** [@srinivasaprasanna-vit](https://github.com/srinivasaprasanna-vit)
+
+ **Note:** Any other accounts bearing my name are not managed or owned by me.
